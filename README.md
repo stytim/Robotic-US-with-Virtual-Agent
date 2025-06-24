@@ -26,10 +26,14 @@ If you require these plugins for your work, please refer to the official sources
 ## Cite Us
 
 ```
-@article{song2025enhancing,
-  title={Enhancing Patient Acceptance of Robotic Ultrasound through Conversational Virtual Agent and Immersive Visualizations},
+@ARTICLE{song2025Enhancing,
   author={Song, Tianyu and Pabst, Felix and Eck, Ulrich and Navab, Nassir},
-  journal={arXiv preprint arXiv:2502.10088},
-  year={2025}
-}
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={Enhancing Patient Acceptance of Robotic Ultrasound through Conversational Virtual Agent and Immersive Visualizations}, 
+  year={2025},
+  volume={31},
+  number={5},
+  pages={2901-2911},
+  keywords={Robots;Ultrasonic imaging;Visualization;Mixed reality;Medical services;Virtual assistants;Real-time systems;Virtual environments;Three-dimensional displays;Probes;Mixed Reality;Virtual Agent;Robotic Ultrasound;Trust and Acceptance},
+  doi={10.1109/TVCG.2025.3549181}}
 ```
