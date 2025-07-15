@@ -12,9 +12,6 @@ Our system now can be fully local hosted without relying on cloud services (diff
 	<img width="100%" src="figures/overview.png">
 </p>
 
-## Code will be released soon!
-
-
 ## Disclaimer
 Due to licensing issues with some third-party plugins and libraries, we are unable to share certain components on GitHub. Specifically, the following plugins used in the original paper are not included in this repository:
 
